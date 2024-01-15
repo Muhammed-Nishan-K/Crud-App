@@ -1,0 +1,20 @@
+body{
+background-color: black;
+}
+.btn{
+    background: linear-gradient(to right, #8e2de2, #4a00e0);
+    width: 90px;
+    height: 40px;
+    border-radius: 6px;
+    cursor: pointer;
+    color: #fff;
+    font-family: 'PT Sans', sans-serif;
+    font-weight: 300;
+}
+.btn-div{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top: 500px;
+}
